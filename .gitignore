@@ -71,3 +71,6 @@ PLLJ_PLLSPE_INFO.txt
 Verilog/01-turnOnLED/output_files/turnOnLED.sld
 Verilog/01-turnOnLED/turnOnLED.qpf
 Verilog/01-turnOnLED/turnOnLED.qsf
+Verilog/02-BlinkLED/output_files/02-BlinkLED.sld
+Verilog/02-BlinkLED/02-BlinkLED.qpf
+Verilog/02-BlinkLED/02-BlinkLED.qsf
